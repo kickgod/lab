@@ -6,6 +6,16 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>F:\四川师范大学实验室安全考试项目\public</_PublishTargetUrl>
+    <_PublishTargetUrl>F:\四川师范大学实验室安全考试项目\public\框架依赖win</_PublishTargetUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=127.0.0.1%3bInitial Catalog=LabTest2%3bIntegrated Security=False%3bUser ID=sa%3bPassword=Jiangxing627%3bPooling=True%3bMin Pool Size=40%3bMax Pool Size=1200%3bConnect Timeout=10000</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="LabExam.DataSource.LabContext">
+      <Value>Data Source=127.0.0.1%3bInitial Catalog=LabTest2%3bIntegrated Security=False%3bUser ID=sa%3bPassword=Jiangxing627%3bPooling=True%3bMin Pool Size=40%3bMax Pool Size=1200%3bConnect Timeout=10000</Value>
+    </EFMigrations>
+  </ItemGroup>
 </Project>

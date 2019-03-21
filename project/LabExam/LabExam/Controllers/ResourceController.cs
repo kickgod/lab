@@ -249,7 +249,7 @@ namespace LabExam.Controllers
                     resource.PrincipalId = _analysis.GetLoginUserModel(HttpContext).UserId;
                     _context.Resources.Add(resource);
 
-                    await _context.SaveChangesAsync().ContinueWith( async result =>
+                    await _context.SaveChangesAsync().ContinueWith(result =>
                     {
                         operation.PrincpalOperationContent = $"添加资源ID {resource.ResourceId}";
                         operation.PrincpalOperationStatus = PrincpalOperationStatus.Success;

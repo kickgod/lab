@@ -93,7 +93,7 @@ using LabExam.Models.Map;
             WriteLiteral("px\" data-width=\"200\"\r\n                          data-height=\"25\">\r\n                    ");
             EndContext();
             BeginContext(1309, 34, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "99e9c31d2f034a779371ef86df60c529", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3faa72549e2049bd8e8fe2f892187d96", async() => {
                 BeginContext(1330, 4, true);
                 WriteLiteral("软件工程");
                 EndContext();
@@ -115,7 +115,7 @@ using LabExam.Models.Map;
             WriteLiteral("\r\n                    ");
             EndContext();
             BeginContext(1365, 40, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2ad0c330537c447abb35197b7d55aa53", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d00e833d20834a01952bfc3ac3ad4339", async() => {
                 BeginContext(1389, 7, true);
                 WriteLiteral("国际商务与贸易");
                 EndContext();
@@ -137,7 +137,7 @@ using LabExam.Models.Map;
             WriteLiteral("\r\n                    ");
             EndContext();
             BeginContext(1427, 32, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f7e902b9c55244338684721f5fceb30b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7d6cd82a1df4431f900dcd81984104c3", async() => {
                 BeginContext(1447, 3, true);
                 WriteLiteral("心理学");
                 EndContext();
@@ -159,7 +159,7 @@ using LabExam.Models.Map;
             WriteLiteral("\r\n                    ");
             EndContext();
             BeginContext(1481, 30, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e49f253d2c3640a08fbbc922f613c98a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c74ae4647bf4650a3f1cf7a931fdd30", async() => {
                 BeginContext(1500, 2, true);
                 WriteLiteral("哲学");
                 EndContext();
@@ -394,7 +394,7 @@ using LabExam.Models.Map;
             WriteLiteral("                                    ");
             EndContext();
             BeginContext(6242, 40, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cc8b55d8add34073877ab4fbb34fc381", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a725975ffa604e39ab9826d588489e93", async() => {
                 BeginContext(6267, 6, false);
 #line 114 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Profession\Index.cshtml"
                                                        Write(_index);
@@ -456,7 +456,7 @@ using LabExam.Models.Map;
             WriteLiteral("\"ProfessionType\">专业类型:</label>\r\n                    <select name=\"ProfessionType\" id=\"ProfessionType\" class=\"form-control border-radius-4 padding-left-10px select-layout\"\r\n                            data-width=\"400\">\r\n                        ");
             EndContext();
             BeginContext(7586, 32, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "37a614a308b848018b3d06d81e85bea1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "494d2bd9417f4cc2a7d4a8b74c1e71e7", async() => {
                 BeginContext(7604, 5, true);
                 WriteLiteral("本科生专业");
                 EndContext();
@@ -478,7 +478,7 @@ using LabExam.Models.Map;
             WriteLiteral("\r\n                        ");
             EndContext();
             BeginContext(7644, 32, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ebfad7f25b05428f835c859b4ddda768", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2f40f4905f72400db468575064071b82", async() => {
                 BeginContext(7662, 5, true);
                 WriteLiteral("研究生专业");
                 EndContext();
@@ -535,7 +535,7 @@ using LabExam.Models.Map;
                             ");
             EndContext();
             BeginContext(9630, 32, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "28b22e3b6e4a43709280b43c9577dc5c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3f3941e9b4f24e90a6e935653cd2ebe0", async() => {
                 BeginContext(9648, 5, true);
                 WriteLiteral("本科生专业");
                 EndContext();
@@ -557,7 +557,7 @@ using LabExam.Models.Map;
             WriteLiteral("\r\n                            ");
             EndContext();
             BeginContext(9692, 32, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1cc2e2cd3364689851dc82791052f47", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "59e0ac01efbc42448374c6a1dee674a6", async() => {
                 BeginContext(9710, 5, true);
                 WriteLiteral("研究生专业");
                 EndContext();

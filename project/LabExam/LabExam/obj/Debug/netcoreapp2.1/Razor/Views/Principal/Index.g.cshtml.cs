@@ -86,7 +86,7 @@ using LabExam.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(149, 63, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a7b404b2e957465bb29741019d982973", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "55456096376f493eb087bd3ca71d7aef", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -104,7 +104,7 @@ using LabExam.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(214, 55, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0389e9406ab24802ac4e78a9f28f7263", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe4114e503e44dbfaa33ef496d4aa6fc", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -180,7 +180,7 @@ using LabExam.Models;
                             新增重考申请[未处理]: ");
             EndContext();
             BeginContext(2213, 190, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f82955c6518d46038ee49154c2ce8116", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9cfed7cc7d0a41e19d77f316b5cb8926", async() => {
                 BeginContext(2285, 34, true);
                 WriteLiteral("\r\n                                ");
                 EndContext();
@@ -215,7 +215,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\" padding-left-15px padding-top-10px padding-bottom-10px\">\r\n                            新增加入申请[未处理]: ");
             EndContext();
             BeginContext(2571, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "407fffbe7b864276b34663d031706df4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d444ae8066045a7aafe906b6c688b05", async() => {
                 BeginContext(2649, 12, false);
 #line 43 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                                  Write(ViewBag.join);
@@ -260,7 +260,7 @@ using LabExam.Models;
                             模块数量: ");
             EndContext();
             BeginContext(3418, 100, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "17aa91c539494d2d81ec745aa1288efa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1bd47b165dde475a93412b08c1f3d632", async() => {
                 BeginContext(3491, 19, false);
 #line 56 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                      Write(ViewBag.moduleCount);
@@ -292,7 +292,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\" padding-left-15px padding-top-10px padding-bottom-10px\">\r\n                            学院总数: ");
             EndContext();
             BeginContext(3679, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "01845b52c69d4f3e8dc26854f872c6b0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bfe62b00da6d4eedab92391ecfe34ed7", async() => {
                 BeginContext(3755, 22, false);
 #line 59 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                         Write(ViewBag.instituteCount);
@@ -324,7 +324,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\" padding-left-15px padding-top-10px padding-bottom-10px\">\r\n                            专业数量: ");
             EndContext();
             BeginContext(3946, 108, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f6e2507352b496ab692da536efc44f1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f837706552d94d79b22f82a293e9c4ae", async() => {
                 BeginContext(4023, 23, false);
 #line 62 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                          Write(ViewBag.professionCount);
@@ -368,7 +368,7 @@ using LabExam.Models;
                             管理员总数: ");
             EndContext();
             BeginContext(4701, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2d484790882a4269a4d6513da05b36a8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "478ea545e6d2438cbd6a516f88db09cf", async() => {
                 BeginContext(4777, 18, false);
 #line 74 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                          Write(ViewBag.adminCount);
@@ -400,7 +400,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\" padding-left-15px padding-top-10px padding-bottom-10px\">\r\n                            本科生总数: ");
             EndContext();
             BeginContext(4966, 99, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64e53a7b39894c0ab3fbd62697084f2b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6295ae375614499cafeebacedd9214cc", async() => {
                 BeginContext(5039, 18, false);
 #line 77 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                       Write(ViewBag.underCount);
@@ -432,7 +432,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\" padding-left-15px padding-top-10px padding-bottom-10px\">\r\n                            研究生总数: ");
             EndContext();
             BeginContext(5227, 98, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7bca0aeb25d7423fa10725bcd210c13a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0f21439ddf3a445d9d2751fecc816b42", async() => {
                 BeginContext(5300, 17, false);
 #line 80 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                       Write(ViewBag.postCount);
@@ -476,7 +476,7 @@ using LabExam.Models;
                             课程总数: ");
             EndContext();
             BeginContext(5986, 100, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e69cf1c6611489badc5f8b377a992de", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a95b35e4fdf647188bc3503be4a856e6", async() => {
                 BeginContext(6059, 19, false);
 #line 92 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                      Write(ViewBag.courseCount);
@@ -508,7 +508,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                        </li>\r\n                        <li class=\" padding-left-15px padding-top-10px padding-bottom-10px\">\r\n                            资源总数: ");
             EndContext();
             BeginContext(6247, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24bec80a849749f183289fb650975480", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a39e7cd68d3d4311acd9073e82ee6354", async() => {
                 BeginContext(6322, 21, false);
 #line 95 "F:\四川师范大学实验室安全考试项目\yun\lab\project\LabExam\LabExam\Views\Principal\Index.cshtml"
                                                                                                        Write(ViewBag.resourceCount);
@@ -540,7 +540,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                        </li>\r\n                    </ul>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div role=\"tabpanel\" class=\"tab-pane \" id=\"profile\">\r\n            ");
             EndContext();
             BeginContext(6547, 1468, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "06a380c63c4b4535b673ff4e87a5a283", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b8c7d8fb9ec84ff298d97b6c1a51bd2d", async() => {
                 BeginContext(6630, 1378, true);
                 WriteLiteral(@"
                 <div class="" padding-left-20px margin-bottom-10px"">
@@ -604,7 +604,7 @@ using LabExam.Models;
                     ");
             EndContext();
             BeginContext(8730, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "46852bdfbe514c7e9c6c211bf7ccab1c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cd099110f7cb470f9bb39e2485325781", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

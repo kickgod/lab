@@ -78,7 +78,7 @@ using LabExam.Models;
             WriteLiteral("</b> 同学申请重新考试,请求老师批准\r\n                        </div>\r\n                        <div class=\" float-right\">\r\n                            ");
             EndContext();
             BeginContext(808, 159, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "59e478dfa0f24eeca15d4e9e1ffb50e2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d4b3dafcafc4924a1f9b2dd81a347bf", async() => {
                 BeginContext(895, 68, true);
                 WriteLiteral("\r\n                                立即查看\r\n                            ");
                 EndContext();
@@ -113,7 +113,7 @@ using LabExam.Models;
             WriteLiteral("</b> 条\r\n                        </div>\r\n                        <div class=\" float-right\">\r\n                            ");
             EndContext();
             BeginContext(1341, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a53edcc76edd4bdf8fe3ee514e972e1e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3a555fd5218d49dd8a99e118d6249817", async() => {
                 BeginContext(1433, 5, true);
                 WriteLiteral("立即查看 ");
                 EndContext();

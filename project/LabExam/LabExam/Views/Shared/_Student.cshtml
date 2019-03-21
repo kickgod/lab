@@ -13,14 +13,26 @@
         .navbar{
             background-color: #fff;
         }
-        @@media screen and (max-width:750px){
-            .navbar-normal{
-                display: none;
-            }
-            .navbar-default{
+        @@media screen and (min-width:750px) {
+            .navbar-normal {
                 display: block;
             }
-            .container{
+
+            .navbar-default {
+                display: none;
+            }
+        }
+        
+        @@media screen and (max-width:750px) {
+            .navbar-normal {
+                display: none;
+            }
+
+            .navbar-default {
+                display: block;
+            }
+
+            .container {
                 margin-left: 10px;
                 margin-right: 10px;
             }
@@ -31,7 +43,7 @@
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-default border-thumali padding-5px display-none" role="navigation">
+    <nav class="navbar navbar-default border-thumali padding-5px" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example-navbar-collapse">
@@ -45,10 +57,10 @@
             </div>
             <div class="collapse navbar-collapse  " id="example-navbar-collapse">
                 <ul class="nav  navbar-right padding-top-5px ">
-                    <li role="presentation"><a href="#"> <span class=" text-primary font-weight-500 ">学生主页</span> </a></li>
-                    <li role="presentation"><a href="#"><span class=" text-primary font-weight-500 ">参加考试</span></a></li>
-                    <li role="presentation"><a href="#"><span class=" text-primary font-weight-500 ">申请重考</span></a></li>
-                    <li role="presentation"><a href="#"><span class=" text-primary font-weight-500 ">退出登录</span></a></li>
+                    <li role="presentation"><a href="/Student/Index"> <span class=" text-primary font-weight-500 ">学生主页</span> </a></li>
+                    <li role="presentation"><a href="/Student/Take"><span class=" text-primary font-weight-500 ">参加考试</span></a></li>
+                    <li role="presentation"><a href="/Student/Application"><span class=" text-primary font-weight-500 ">申请重考</span></a></li>
+                    <li role="presentation"><a href="/Student/LoginOut"><span class=" text-primary font-weight-500 ">退出登录</span></a></li>
                 </ul>
             </div>
         </div>
@@ -75,7 +87,7 @@
         </div>
     </div>
     @RenderBody()
-    <div class="layout-position-bottom border-radius-4 container-fluid border-little-grey-all padding-10px  bc-clr-white margin-top-10px">
+    <div class="layout-position-bottom border-radius-4 container-fluid border-little-grey-all padding-10px  bc-clr-white " style="margin-top: 100px;">
         <div class="text-center font-size-16 ">
             <small>© All Right Reserved . 四川师范大学计算机科学学院 版权所有 版本号1.0.0.2018.9</small>
         </div>

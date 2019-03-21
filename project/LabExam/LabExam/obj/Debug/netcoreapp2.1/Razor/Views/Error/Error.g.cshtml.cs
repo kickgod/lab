@@ -63,7 +63,7 @@ using LabExam.Models;
             WriteLiteral("\r\n\r\n<!doctype html>\r\n<html>\r\n");
             EndContext();
             BeginContext(58, 5900, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b67e374420a74888acff1b94855a4ab3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "16b6349a38984539875396cc4a97ed03", async() => {
                 BeginContext(64, 82, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\">\r\n    <title>404错误页效果</title>\r\n\r\n    <style>\r\n        ");
                 EndContext();
@@ -279,7 +279,7 @@ using LabExam.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(5960, 265, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b36b51a13a8c45478f0380d8c16b9c28", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae5ada8652e242dca17bad270cd15dd7", async() => {
                 BeginContext(5966, 12, true);
                 WriteLiteral("\r\n\r\n    <h1>");
                 EndContext();

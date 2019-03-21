@@ -66,7 +66,7 @@ using LabExam.Models;
 #line default
 #line hidden
             BeginContext(138, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e6858aa40c4fcfba24543821f21438", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4289087bfcec4bcd9d5aa397a33aeea0", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -105,7 +105,7 @@ using LabExam.Models;
                 ");
             EndContext();
             BeginContext(699, 153, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "3341e1b271954d42880f8188fd2cf1e3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "bb85e6730aea474c8e2d1036b3a812ef", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -269,7 +269,7 @@ AddHtmlAttributeValue("", 732, Model.HeadPortrait, 732, 19, false);
             WriteLiteral("</b><br />\r\n                        <span>申请次数</span>\r\n                    </div>\r\n                    <div class=\"follows-item\">\r\n                        ");
             EndContext();
             BeginContext(2812, 137, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "86937315ed084d36911097b09e8910d7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9116abdce184483eb4e94078341b7643", async() => {
                 BeginContext(2894, 51, true);
                 WriteLiteral(" <span class=\"glyphicon glyphicon-cog\"></span> 个人中心");
                 EndContext();

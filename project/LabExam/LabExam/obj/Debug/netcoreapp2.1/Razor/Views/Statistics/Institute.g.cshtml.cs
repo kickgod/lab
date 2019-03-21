@@ -74,7 +74,7 @@ using LabExam.Models;
                 ");
             EndContext();
             BeginContext(1022, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "55748295b7bb4310a678535fb2e59da9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "66d28b49442a4fdb9138b3095e6fb844", async() => {
                 BeginContext(1040, 6, true);
                 WriteLiteral(" 总通过率 ");
                 EndContext();
@@ -96,7 +96,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                ");
             EndContext();
             BeginContext(1073, 34, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24a2325b8bf541539089dc09ff515cc9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2a5718e44db84d2b9eee030b3cae2b69", async() => {
                 BeginContext(1091, 7, true);
                 WriteLiteral(" 研究生通过率");
                 EndContext();
@@ -118,7 +118,7 @@ using LabExam.Models;
             WriteLiteral("\r\n                ");
             EndContext();
             BeginContext(1125, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3842cd72f0964b178732b9d097b65044", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "65d4d1e14dfa49ae85ed4b5c2fce088b", async() => {
                 BeginContext(1144, 7, true);
                 WriteLiteral(" 本科生通过率");
                 EndContext();

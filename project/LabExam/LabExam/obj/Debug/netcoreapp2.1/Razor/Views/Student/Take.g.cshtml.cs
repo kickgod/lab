@@ -216,7 +216,7 @@ using LabExam.Models.Map;
             WriteLiteral("                <div class=\" margin-bottom-15px text-danger\">\r\n                    [<span class=\"glyphicon glyphicon-info-sign\"></span>]\r\n                    <span class=\" font-size-13\">\r\n                        你已经用完考试次数! 去申请重考吧！");
             EndContext();
             BeginContext(4657, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a7e0a4a1b5b48468e07bb9e0bbf4af9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "72db730f51cd4419a36d5d99760124b9", async() => {
                 BeginContext(4711, 4, true);
                 WriteLiteral("申请重考");
                 EndContext();
